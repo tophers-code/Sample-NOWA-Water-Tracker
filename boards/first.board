@@ -1,0 +1,119 @@
+{
+    "canvases": [
+        {
+            "x": 489.0,
+            "y": -58.09454545454548,
+            "w": 393.0,
+            "h": 826.0,
+            "widget": "const HomePage()",
+            "deps": [
+                "lib/pages/home_page.dart"
+            ]
+        },
+        {
+            "x": 1344.0,
+            "y": 304.9054545454545,
+            "w": 155.0,
+            "widget": "const Addwaterbutton()",
+            "deps": [
+                "lib/components/addwaterbutton.dart"
+            ]
+        },
+        {
+            "x": -3.0,
+            "y": -67.09454545454548,
+            "w": 386.0,
+            "h": 844.0,
+            "widget": "const TodayHistory()",
+            "deps": [
+                "lib/pages/today_history.dart"
+            ]
+        },
+        {
+            "x": 1344.0,
+            "y": -85.0,
+            "w": 276.0,
+            "h": 84.0,
+            "widget": "const Dailyprogress()",
+            "deps": [
+                "lib/components/dailyprogress.dart"
+            ]
+        },
+        {
+            "x": -1364.0,
+            "y": 104.90545454545452,
+            "w": 286.0,
+            "h": 500.0,
+            "widget": "const HistoryView()",
+            "deps": [
+                "lib/components/history_view.dart"
+            ]
+        },
+        {
+            "x": 1712.0,
+            "y": -129.0,
+            "w": 350.0,
+            "h": 238.0,
+            "widget": "const Setdailytarget()",
+            "deps": [
+                "lib/components/setdailytarget.dart"
+            ]
+        },
+        {
+            "x": 1712.0,
+            "y": 209.90545454545452,
+            "w": 398.0,
+            "h": 290.0,
+            "widget": "const Setreminders()",
+            "deps": [
+                "lib/components/setreminders.dart"
+            ]
+        },
+        {
+            "x": 1344.0,
+            "y": 595.0,
+            "widget": "const Sliderwater()",
+            "deps": [
+                "lib/components/sliderwater.dart"
+            ]
+        },
+        {
+            "x": 1713.5,
+            "y": 595.0,
+            "w": 347.0,
+            "h": 282.0,
+            "widget": "const CustomAmountDialog()",
+            "deps": [
+                "lib/components/custom_amount_dialog.dart"
+            ]
+        },
+        {
+            "x": -576.0,
+            "y": 105.90545454545452,
+            "w": 298.0,
+            "widget": "const SettingsView()",
+            "deps": [
+                "lib/components/settings_view.dart"
+            ]
+        },
+        {
+            "x": -1020.0,
+            "y": 12.905454545454518,
+            "w": 393.0,
+            "h": 684.0,
+            "widget": "const HomeView()",
+            "deps": [
+                "lib/components/home_view.dart"
+            ]
+        },
+        {
+            "x": 1344.0,
+            "y": 109.0,
+            "w": 269.0,
+            "widget": "const Waterlog()",
+            "deps": [
+                "lib/components/waterlog.dart"
+            ]
+        }
+    ]
+}
